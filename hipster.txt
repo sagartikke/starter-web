@@ -1,3 +1,5 @@
+This is first edit 
+
 Sagar@LAPTOP-60C3F9HO MINGW64 /d/projects
 $ git init fresh-project
 Initialized empty Git repository in D:/projects/fresh-project/.git/
