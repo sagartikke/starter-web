@@ -1,0 +1,21 @@
+Sagar@LAPTOP-60C3F9HO MINGW64 /d/projects
+$ git init fresh-project
+Initialized empty Git repository in D:/projects/fresh-project/.git/
+------------------------------------------
+Sagar@LAPTOP-60C3F9HO MINGW64 /d/projects
+$ ls
+fresh-project/
+------------------------------------------
+Sagar@LAPTOP-60C3F9HO MINGW64 /d/projects
+$ cd fresh-project
+
+Sagar@LAPTOP-60C3F9HO MINGW64 /d/projects/fresh-project (master)
+$ ls
+
+Sagar@LAPTOP-60C3F9HO MINGW64 /d/projects/fresh-project (master)
+$ ls -al
+total 4
+drwxr-xr-x 1 Sagar 197121 0 Jun 16 23:23 ./
+drwxr-xr-x 1 Sagar 197121 0 Jun 16 23:23 ../
+drwxr-xr-x 1 Sagar 197121 0 Jun 16 23:23 .git/
+-------------------------------------------
