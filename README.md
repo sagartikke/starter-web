@@ -1,6 +1,7 @@
 # Starter Web Repo
 Test Starter
 This repository is for showing how Git and GitHub work
+Line 3 for section one
 
 ## Purpose
 Test 1
